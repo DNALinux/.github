@@ -1,6 +1,6 @@
 ## Welcome to DNALinux GitHub page 👋
 
-DNALinux is an open source project dedicated to making bioinformatics and computational biology more accessible, reproducible, and easier to use.
+DNALinux[^1] is an open source project dedicated to making bioinformatics and computational biology more accessible, reproducible, and easier to use.
 
 DNALinux began in 2003 in Argentina, with a simple idea: make bioinformatics software easier for researchers and students to install and use. The first release was a Linux distribution that bundled commonly used bioinformatics tools into a ready-to-use environment. By 2006, DNALinux had reached more than 3,000 users in 80 countries and was recognized as one of the early Linux distributions specifically designed for bioinformatics.
 
@@ -16,8 +16,8 @@ Explore DNALinux:
 - 🐳 Docker Hub: https://hub.docker.com/u/dnalinux
 
 From Linux for Bioinformatics to an open platform for AI-powered biology.
-Introduction:
 
+[^1]: © 2026. [DNALinux](https://dnalinux.com/) by [Toyoko LLC.](https://www.toyoko.io/) Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries, used by Toyoko LLC under a sublicense from The Linux Foundation.
 
 <!--
 
